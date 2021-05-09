@@ -27,7 +27,7 @@
         android:layout_height="48dp"
         android:layout_marginStart="146dp"
         android:layout_marginTop="236dp"
-        android:text="@string/account"
+        android:text="Account"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -35,9 +35,9 @@
         android:id="@+id/btn_hotels"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="146dp"
-        android:layout_marginTop="341dp"
-        android:text="@string/myHotels"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="340dp"
+        android:text="My Hotels"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -47,7 +47,7 @@
         android:layout_height="48dp"
         android:layout_marginStart="146dp"
         android:layout_marginTop="443dp"
-        android:text="@string/bookings"
+        android:text="Bookings"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

@@ -14,7 +14,7 @@
         android:layout_marginStart="136dp"
         android:layout_marginTop="109dp"
         android:fontFamily="sans-serif-medium"
-        android:text="@string/addHotel"
+        android:text="Add Hotel"
         android:textColor="#000000"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -29,7 +29,7 @@
         android:layout_marginTop="189dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/hotelName"
+        android:text="Hotel Name"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,7 +41,7 @@
         android:layout_marginTop="268dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/addressLine1"
+        android:text="addressLine1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -54,7 +54,7 @@
         android:layout_marginBottom="373dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/addressLine2"
+        android:text="addressLine2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -68,7 +68,7 @@
         android:layout_marginTop="356dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/addressLine3"
+        android:text="addressLine3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -80,7 +80,7 @@
         android:layout_marginTop="441dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/contactNum"
+        android:text="Contact Num"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
