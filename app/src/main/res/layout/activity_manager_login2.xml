@@ -48,7 +48,7 @@
         android:layout_marginTop="264dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:text="@string/email"
+        android:text="Email"
         android:textColor="#8F8F8F"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
