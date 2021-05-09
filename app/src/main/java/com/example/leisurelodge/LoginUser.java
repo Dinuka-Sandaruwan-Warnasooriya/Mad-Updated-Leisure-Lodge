@@ -1,4 +1,4 @@
-/*package com.example.leisurelodge;
+package com.example.leisurelodge;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -98,4 +98,4 @@ public class LoginUser extends AppCompatActivity implements View.OnClickListener
         }
         return valid;
     }
-}*/
+}
