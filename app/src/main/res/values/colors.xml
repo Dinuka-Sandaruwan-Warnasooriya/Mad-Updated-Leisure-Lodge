@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0575E6</color>
+    <color name="colorPrimaryDark">#021B79</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="whiteOpacity">#6FFFFFFF</color>
+    <color name="black">#000</color>
+    <color name="gradientPrimary">#2980B9</color>
+    <color name="gradientSecondary">#6DD5FA</color>
+    <color name="borderColor">#000</color>
+
+    <color name="coRed">#d21404</color>
+    <color name="duskYellow">#ffc600</color>
+    <color name="lightGrey">#f1f1f1</color>
+</resources>

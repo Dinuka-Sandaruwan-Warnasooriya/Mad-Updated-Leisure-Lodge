@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Leisurelodge</string>
+
+
+    <string name="register_account">Register Account</string>
+    <string name="full_name">Full name</string>
+    <string name="nic">NIC</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create Account</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="logo_image">logo image</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="i_don_t_have_an_account">I don\'t have an account</string>
+    <string name="logout">Logout</string>
+    <string name="sample_hotel_name">sample hotel name</string>
+    <string name="view_feedback">View Feedback</string>
+    <string name="add_feedback">Add Feedback</string>
+    <string name="comment">Comment</string>
+    <string name="rating">Rating</string>
+    <string name="cancel">cancel</string>
+    <string name="save_feedback">Save feedback</string>
+    <string name="update_feedback">Update Feedback</string>
+    <string name="view_hotel_1">View hotel 1</string>
+    <string name="view_hotel_2">View hotel 2</string>
+    <string name="my_feedbacks">My feedbacks</string>
+    <string name="my_profile">My Profile</string>
+    <string name="posted_by">posted by</string>
+    <string name="edit_button">Edit button</string>
+    <string name="delete_button">delete button</string>
+    <string name="search_hotel">Enter hotel name</string>
+    <string name="search">Search</string>
+    <string name="view_all_feedbacks">View All feedbacks</string>
+    <string name="hotel_feedbacks">Hotel Feedbacks</string>
+    <string name="update_details">update details</string>
+    <string name="delete_account">Delete account</string>
+    <string name="choose_image">Choose image</string>
+</resources>

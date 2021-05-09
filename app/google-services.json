@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159344726576",
+    "project_id": "leisurelodge-35eab",
+    "storage_bucket": "leisurelodge-35eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159344726576:android:d1466d5f604d251b4513f5",
+        "android_client_info": {
+          "package_name": "com.example.leisurelodge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159344726576-er7luddgfof2aieis7v080rpdlrnao5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ9E19DBEtVonfBU-I8FIII8rFlzdAy1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159344726576-er7luddgfof2aieis7v080rpdlrnao5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
